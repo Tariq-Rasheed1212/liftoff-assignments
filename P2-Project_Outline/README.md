@@ -7,12 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project is a site where clients can explore and pick out what film production pakage they would need for their project. They will be able t fill out shoot dates, choose what equiment they would like, amount of crew needed like a makeup artist, if a casting director is required, editor, and director of photography just to name a few.
 ### Features
-Include Features here
+Features will include User Login, profile, seach for keywords, calendar to select and lock in shoot dates, and a budget estimator for packages.
 ### Technologies
-Include Technologies here
+C#, MySql
 ### What I'll Have to Learn
-Include what you will need to learn here
+Blazor, Springboot,
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/gaEdlMMA/film-production#
