@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-My project is a site where clients can explore and pick out what film production pakage they would need for their project. They will be able t fill out shoot dates, choose what equiment they would like, amount of crew needed like a makeup artist, if a casting director is required, editor, and director of photography just to name a few.
+My project is an ecommerce site where customers can explore items, or services by using a title or product Id.  Right now this site contains movie titles. Customers are able to  pick out their film choices by searching by title, category or simply by clicking the pictures of titles. They will be able to add it to their checkout cart and make a payment.
 ### Features
 Features will include User Login, profile, seach for keywords, calendar to select and lock in shoot dates, and a budget estimator for packages.
 ### Technologies
